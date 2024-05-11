@@ -1,4 +1,4 @@
-# Welcome to My Data Science Portfolio!
+# Welcome to my Data Science Portfolio!
 
 Welcome to my GitHub profile dedicated to data science projects! 
 
